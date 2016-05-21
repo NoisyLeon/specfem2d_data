@@ -1,0 +1,5 @@
+proc000000_rho_vp_vs.dat_001 : 
+xmin=0, xmax=1000000, zmin=0, zmax=1000000, dx = 50000, dz = 50000, Vs = 3000
+
+proc000000_rho_vp_vs.dat_002 : 
+xmin=0, xmax=1000000, zmin=0, zmax=1000000, dx = 50000, dz = 50000, Vs = 3000, Xc=700000, Zc=700000, R=60000, Va=2500
